@@ -1,0 +1,11 @@
+# Directory where to store the BerkeleyDB containers.
+DBENV=/var/cache/obstats/dbenv
+
+# Directory where to store logs.
+LOGS=/var/cache/obstats/logs
+
+# URL for the log files
+URL=http://example.com/apache2/logs
+
+# Number of processors to use at the same time.
+NPROCS=4
